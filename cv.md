@@ -22,6 +22,7 @@ Education
 
  2006-2010
 :   **BSc in Computer Science**; Indiana University (Bloomington)
+
 Experience
 ----------
 
@@ -38,6 +39,7 @@ Develop applications for Creatio CRM using ASP.Net, Javascript
 
 Developed the admin page for "Stopover Holidays" application. Also worked on creating a Windows File Transfer Service that posted aircraft maintenance data to another system.
 Links to projects: https://github.com/aiutegul/FileTransferWinService, https://github.com/aiutegul/StopoverHolidays
+
 
 Technical Experience
 --------------------
