@@ -1,36 +1,33 @@
+
 div {
   border-radius: 5px;
 }
 
 #main_container {
-    margin: auto;
+  max-width: 900px;
+  background-color: #e3edd8;
+  margin: auto;
 }
 
-#header {
-  position: fixed;
-  z-index: 1;
-  height: 40px;
-  width: 98%;
-  background-color: #668284;
-  margin-bottom: 10px;
+
+img {
+	width: 150px;
+	height: 150px;
+	padding-top: 20px;
+	padding-left: 11px;
+  margin-top: 15px;
+	margin-left: 10px;
+  border-radius: 50%;
+	float:left;
+  object-fit: cover;
 }
 
-#name {
-  float: left;
-  margin-left: 20px;
-  padding-bottom: 10px;
-  font-size: 16px;
-  font-family: Verdana, sans-serif;
-  color: #ffffff;
-}
-
-#email {
-  float: right;
-  margin-right: 20px;
-  padding-bottom: 10px;
-  font-size: 16px;
-  font-family: Verdana, sans-serif;
-  color: #ffffff;
+#about {
+  width: 400px;
+	display: inline-block;
+  margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 5px;
 }
 
 #contact {
@@ -49,19 +46,11 @@ a:hover {
   float: left;
   margin-top: 50px;
   padding-left: 5px;
-  /*margin-right: -10px;
-    margin-left: 14%;*/
   height: auto;
   width: 99%;
   background-color: #e3edd8;
 }
 
-#footer {
-  height: 40px;
-  clear: both;
-  position: relative;
-  background-color: #c1e3e1;
-}
 
 h3 {
   text-decoration: underline;
